@@ -1,0 +1,27 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE - IntelliJ
+.idea/
+*.iml
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+logs/
+C:/logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper (optionnel, garde mvnw)
+!mvnw
+!mvnw.cmd
